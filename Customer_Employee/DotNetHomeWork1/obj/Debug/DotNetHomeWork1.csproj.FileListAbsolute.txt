@@ -1,0 +1,11 @@
+C:\Users\emre_\source\repos\DotNetHomeWork1\DotNetHomeWork1\bin\Debug\DotNetHomeWork1.exe.config
+C:\Users\emre_\source\repos\DotNetHomeWork1\DotNetHomeWork1\bin\Debug\DotNetHomeWork1.exe
+C:\Users\emre_\source\repos\DotNetHomeWork1\DotNetHomeWork1\bin\Debug\DotNetHomeWork1.pdb
+C:\Users\emre_\source\repos\DotNetHomeWork1\DotNetHomeWork1\obj\Debug\DotNetHomeWork1.csproj.AssemblyReference.cache
+C:\Users\emre_\source\repos\DotNetHomeWork1\DotNetHomeWork1\obj\Debug\DotNetHomeWork1.csproj.SuggestedBindingRedirects.cache
+C:\Users\emre_\source\repos\DotNetHomeWork1\DotNetHomeWork1\obj\Debug\DotNetHomeWork1.Form1.resources
+C:\Users\emre_\source\repos\DotNetHomeWork1\DotNetHomeWork1\obj\Debug\DotNetHomeWork1.Properties.Resources.resources
+C:\Users\emre_\source\repos\DotNetHomeWork1\DotNetHomeWork1\obj\Debug\DotNetHomeWork1.csproj.GenerateResource.cache
+C:\Users\emre_\source\repos\DotNetHomeWork1\DotNetHomeWork1\obj\Debug\DotNetHomeWork1.csproj.CoreCompileInputs.cache
+C:\Users\emre_\source\repos\DotNetHomeWork1\DotNetHomeWork1\obj\Debug\DotNetHomeWork1.exe
+C:\Users\emre_\source\repos\DotNetHomeWork1\DotNetHomeWork1\obj\Debug\DotNetHomeWork1.pdb
